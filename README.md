@@ -1,4 +1,4 @@
-#ideas
+# ideas
 * move to React
 * dynamic board size
 * irregular non-square board drawing tool
