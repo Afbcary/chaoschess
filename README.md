@@ -24,4 +24,4 @@
 * * * lossIsFatal (act like king and end game)
 * * * canCaptureMultiple like checkers
 * * * canCheck (some peices don't affect king)
-* * * 
+* * * multiple pieces on a square
